@@ -1,0 +1,100 @@
+section {
+    padding: 60px 0 0 0;
+}
+
+#title {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    background-color: #D7CEC7;
+}
+
+#title h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#des {
+    width: 60%;
+}
+
+li span {
+    font-weight: normal;
+}
+
+.personas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+.personas-container img {
+    width: 350px;
+    height: 290px;
+    ;
+}
+
+.personas-card {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.personas-card p {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 350px;
+}
+
+#overview {
+    background-color: #D7CEC7;
+    display: flex;
+}
+
+#preparation {
+    background-color: #A7B3A5;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+#observations {
+    background-color: #D7CEC7;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+#personas {
+    background-color: #A7B3A5;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+#storyboards {
+    background-color: #D7CEC7;
+}
+
+#intro {
+    text-align: center;
+    background-color: #D7CEC7;
+}
